@@ -7,13 +7,13 @@ let config = {
   showDelay: 2.5, 
 
   // Заголовок
-  title: 'unfeel#7161',
+  title: 'Tryton#6309',
 
   // Социальные сети
   social: {
-    telegram: '@unfeelmeow',
-    steam: 'bz_silent',
-    vk: 'actually.unfeel', 
+    telegram: '@Trytonik',
+    steam: 'ktb1141',
+    vk: 'trytonik', 
   },
 
 
@@ -34,7 +34,7 @@ let config = {
 
 
   // Текст копирайта
-  copyrightText: 'dev - unfeel#7161',
+  copyrightText: 'dev - Tryton#6309 ',
   // Цвет копирайта
   copyrightTextColor: '#f5323c',
 
